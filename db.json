@@ -1,0 +1,10 @@
+{
+    "auth_response": {
+        "access_token": "abc1233",
+        "refresh_token": "323223",
+        "expires_in": "233333",
+        "scope": "scope",
+        "token_type": "Bearer",
+        "ext_expires_in": "12343"
+    }
+}
