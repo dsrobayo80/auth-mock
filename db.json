@@ -1,7 +1,7 @@
 {
     "auth_response": {
-        "access_token": "jiSa84CtXV9pJooAhzTPspsB7bhUOTrryjo5Yr42V6hUxn7i1QeBWc",
-        "refresh_token": "Y3JQgMdp9LIYJA2RMv7Q0LCbVRJRR2Gx9Crxs9jbUG7RKT",
+        "access_token": "6njuC48epBAiwCacwBynlVVt3YvQDMpigyXQGdZYqqM3wYxV6FlqcJ",
+        "refresh_token": "48h09LqXIqMuPjPrt9i750ric7udZPtnWYSPQt7MfI3P2H",
         "expires_in": "1800",
         "scope": "openid,Telefonica",
         "token_type": "Bearer",
